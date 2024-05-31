@@ -37,8 +37,8 @@ seller_type = st.selectbox('Satıcı Tipi', translated_sellerType_options)
 transmission = st.selectbox('Vites', translated_transmission_options)
 owner = st.selectbox('Kaçıncı Sahip', translated_owner_options)
 mileage = st.slider('1 Litre ile Kaç KM (Milage)', 10,40)
-engine = st.slider('Motor CC', 700,5000)
-max_power = st.slider('Beygir Gücü', 0,200)
+engine = st.slider('Motor CC', 800,5000)
+max_power = st.slider('Beygir Gücü', 0,300)
 seats = st.slider('Kaç Koltuklu', 5,10)
 
 
