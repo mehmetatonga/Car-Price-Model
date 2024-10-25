@@ -1,6 +1,4 @@
-"Araç Fiyat Tahmin Uygulaması" adlı proje Selin ÇABUK ve Mehmet Ali TONGA tarafından Python yazılım dili ve Jupyter Notebook ortamı
-
-kullanılarak geliştirilmiştir.
+"Araç Fiyat Tahmin Uygulaması" adlı proje Selin ÇABUK ve Mehmet Ali TONGA tarafından Python yazılım dili ve Jupyter Notebook ortamı kullanılarak geliştirilmiştir.
 
 Projenin amacı Lineer Regresyon ile araç özelliklerine göre fiyat tahmini yapılmasıdır.
 
